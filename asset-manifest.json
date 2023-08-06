@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/codeWithSaad_portfolio/static/css/main.71cfaa47.css",
-    "main.js": "/codeWithSaad_portfolio/static/js/main.4f825ec5.js",
+    "main.css": "/codeWithSaad_portfolio/static/css/main.284c1cbc.css",
+    "main.js": "/codeWithSaad_portfolio/static/js/main.1dcb5e5a.js",
     "static/media/avatar2.jpg": "/codeWithSaad_portfolio/static/media/avatar2.65d8f94e5fa5951c9847.jpg",
     "static/media/he-about.jpg": "/codeWithSaad_portfolio/static/media/he-about.80b010090faccaa50e51.jpg",
     "static/media/he.png": "/codeWithSaad_portfolio/static/media/he.fd745a3c02355a37670d.png",
@@ -14,11 +14,11 @@
     "static/media/portfolio3.jpg": "/codeWithSaad_portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/codeWithSaad_portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/codeWithSaad_portfolio/index.html",
-    "main.71cfaa47.css.map": "/codeWithSaad_portfolio/static/css/main.71cfaa47.css.map",
-    "main.4f825ec5.js.map": "/codeWithSaad_portfolio/static/js/main.4f825ec5.js.map"
+    "main.284c1cbc.css.map": "/codeWithSaad_portfolio/static/css/main.284c1cbc.css.map",
+    "main.1dcb5e5a.js.map": "/codeWithSaad_portfolio/static/js/main.1dcb5e5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.71cfaa47.css",
-    "static/js/main.4f825ec5.js"
+    "static/css/main.284c1cbc.css",
+    "static/js/main.1dcb5e5a.js"
   ]
 }
